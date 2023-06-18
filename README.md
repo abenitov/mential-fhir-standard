@@ -4,17 +4,18 @@
 ![FHIR-interconnected-world](fhirIntro.png)
 
 
-Mónica vive en España y ha experimentado síntomas de ansiedad. Ha visitado a varios profesionales de la salud mental en diferentes centros de atención primaria y hospitales dentro de su comunidad autónoma. Cada centro utiliza un sistema de registro médico electrónico (EMR) distinto. Mónica ha recibido diversos tratamientos, como terapia cognitivo-conductual, medicación y terapia grupal.
+###Introduction###
+Monica lives in Spain and has experienced symptoms of anxiety. She has visited several mental health professionals in different primary care centers and hospitals within her autonomous community. Each center uses a different electronic medical record (EMR) system. Monica has received various treatments, such as cognitive-behavioral therapy, medication and group therapy.
 
-Por razones personales, Mónica tiene que mudarse a otra comunidad autónoma, lo que significa que también deberá cambiar de médicos y terapeutas. Sin mecanismos homogéneos para el registro de los datos clínicos, la transferencia de información médica entre las comunidades autónomas y los distintos sistemas de EMR se vuelve complicada y lenta.
+For personal reasons, Monica has to move to another autonomous community, which means that she will also have to change doctors and therapists. Without homogeneous mechanisms for recording clinical data, the transfer of medical information between the autonomous communities and the different EMR systems becomes complicated and slow.
 
-Supongamos ahora que el sistema sanitario español, todos los centros médicos y profesionales, adoptan un lenguaje único para el registro y comunicación de datos médicos, un estándar como lo es el FHIR. Estos desafíos desaparecen aportando numerosas ventajas:
+Let us now assume that the Spanish healthcare system, all medical centers and professionals, adopt a single language for recording and communicating medical data, a standard such as FHIR. These challenges disappear, bringing numerous advantages:
 
-    Facilitar la transferencia de información: Los nuevos profesionales de la salud mental en la comunidad autónoma a la que Mónica se muda podrán acceder fácilmente a sus registros médicos, permitiendo un mejor seguimiento y tratamiento de sus síntomas de ansiedad.
-    Mejorar la coordinación de atención: Los diferentes profesionales involucrados en el tratamiento de Mónica en ambas comunidades autónomas podrán compartir y actualizar información sobre su caso, lo que permitirá una atención más integrada y personalizada.
-    Empoderar al paciente: Mónica podrá tener acceso a sus propios registros médicos, lo que le permitirá tomar decisiones más informadas sobre su tratamiento y hacer un seguimiento de su progreso.
-    Ahorrar tiempo y recursos: Al facilitar la comunicación y la transferencia de información entre comunidades autónomas y profesionales, FHIR reduce la necesidad de pruebas y evaluaciones repetidas, lo que ahorra tiempo y recursos.
+    Facilitate the transfer of information: New mental health professionals in the autonomous community to which Monica is moving will be able to easily access her medical records, allowing for better monitoring and treatment of her anxiety symptoms.
+    Improve coordination of care: The different professionals involved in Monica's treatment in both autonomous communities will be able to share and update information about her case, allowing for more integrated and personalized care.
+    Empower the patient: Monica will be able to access her own medical records, allowing her to make more informed decisions about her treatment and track her progress.
+    Save time and resources: By facilitating communication and information transfer between autonomous communities and professionals, FHIR reduces the need for repeated tests and assessments, saving time and resources.
 
-En este contexto, el estándar FHIR es especialmente útil en el sistema sanitario español, donde la transferencia de información médica entre diferentes comunidades autónomas y sistemas EMR puede ser un desafío. Adoptar FHIR ayuda a mejorar la atención al paciente al facilitar la comunicación, la transferencia de información y la colaboración entre profesionales en todo el país.
+In this context, the FHIR standard is especially useful in the Spanish healthcare system, where the transfer of medical information between different autonomous communities and EMR systems can be a challenge. Adopting FHIR helps to improve patient care by facilitating communication, information transfer and collaboration between professionals across the country.
 
-En Mential, comprendemos la importancia de brindar una atención eficiente y personalizada a nuestros pacientes. Desde nuestros inicios, hemos abordado el desafío de la interoperabilidad de datos, adoptando el estándar FHIR en todos nuestros servicios. Al implementar FHIR, nos aseguramos de que nuestros pacientes, como Mónica, puedan disfrutar de una transición sin complicaciones cuando cambian de médicos o se trasladan a otra comunidad autónoma. Nuestra prioridad es ofrecer una atención integrada y centrada en el paciente, facilitando el acceso y la transferencia de información médica entre profesionales de la salud mental en todo el país. Con Mential, los pacientes pueden estar seguros de que recibirán el mejor tratamiento posible, independientemente de su ubicación, gracias a nuestra dedicación a la innovación y al uso de las últimas tecnologías en la atención sanitaria.
+

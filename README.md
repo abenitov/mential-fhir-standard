@@ -1,7 +1,7 @@
 # mential-fhir-standard
 
 
-![FHIR-interconnected-world]((https://miro.medium.com/v2/resize:fit:720/0*2LAOId86lWa0MUQ_))
+![FHIR-interconnected-world](0 2LAOId86lWa0MUQ_.png)
 
 
 Mónica vive en España y ha experimentado síntomas de ansiedad. Ha visitado a varios profesionales de la salud mental en diferentes centros de atención primaria y hospitales dentro de su comunidad autónoma. Cada centro utiliza un sistema de registro médico electrónico (EMR) distinto. Mónica ha recibido diversos tratamientos, como terapia cognitivo-conductual, medicación y terapia grupal.
